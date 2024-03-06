@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# K Nearest Neighbors PoC
